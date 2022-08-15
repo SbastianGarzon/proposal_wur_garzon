@@ -1,0 +1,145 @@
+---
+title: '**PE&RC PhD PROJECT PROPOSAL**'
+geometry: margin=2cm
+output: 
+  pdf_document:
+    number_sections: true
+header-includes:
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyhead[L]{PE\&RC Project Proposal}
+  \fancyhead[R]{\emph{Version{:} September 2022}}
+  \fancyfoot[L]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \fontfamily{verdana}
+  \fontsize{9}{12}
+  \linespread{1.15}
+  \selectfont
+---
+\thispagestyle{fancy}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Please submit the signed PDF of the PE&RC PhD Project Proposal by email to the PE&RC office (office.pe@wur.nl) no later than* **6 months** *after the start of the PhD project. In case a peer-reviewed full project proposal is available (e.g., NWO or EU), please send that proposal along together with the reviewers’ comments, rebuttal(s) and the final letter of acceptance.*
+
+# General information 
+## ABOUT THE PROJECT PROPOSAL AND EVALUATION CRITERIA:
+The PE&RC PhD proposal is written by the PhD candidate in consultation with and feedback from the supervisory team. After submission, the proposal is sent out for review. The candidate and the supervisory team are encouraged to suggest possible independent reviewers that can provide constructive feedback to the candidate. 
+
+The reviewers are asked to evaluate the proposal on:
+
+* *Scientific quality*
+
+>Clarity of writing, depth of literature review, definition of research question(s) and objective(s), and originality of subject and/or methodology.
+
+* *Feasibility*
+
+>Feasibility given the 4-year time frame, (financial) resources, effectiveness of the proposed approach/strategy, logistical/practical aspects and evaluation of the expertise within the supervising team and/or collaborations for adequate support in the proposed project.
+
+* *Scientific and/or societal impact*
+
+>The importance of the potential research results in the short and long term in the field of research, potential use and relevance in other scientific disciplines, and potential use and relevance for society (economic, technical, social, cultural), including technological application. 
+
+## GENERAL PROJECT INFORMATION:
+ | 
+------------- | -------------
+Main PE&RC affiliated Institute/University  | 
+Main PE&RC research group | 
+Other PE&RC research groups involved| 
+Where will the research be conducted (country)| 
+Full name of the PhD candidate| 
+Project duration| 
+Time spent on PhD project| 
+Principal supervisor/Promotor | 
+Additional supervisor(s)| 
+
+## ETHICS
+*Ethical issues such as experiments with animals (vertebrates), work with genetically modified organisms, work with material under the Nagoya protocol, or personal data privacy considerations (AVG) may have legal implications. Also, ethical guidelines of the respective research institution may apply.*
+
+ | 
+------------- | -------------
+Do any of the above mentioned, or other ethical issues apply to this project? | **YES**/ NO
+If YES, please elaborate: | 
+
+## PE&RC RESEARCH THEME(S)
+*In which of the PE&RC research theme(s) does the project fit (multiple options possible). Please elaborate.*
+
+Themes| Elaboration
+------------- | -------------
+Biodiversity and Systems Dynamics | 
+One Health | 
+Redesign of (argo-) ecological systems | 
+Data and Engineering Science for Life and Environment | 
+
+\newpage
+
+# Proposal structure 
+
+*Please note: Proposal length: Max. 8 pages excl. list of literature references, using Verdana font at font size 8.5 (or similar) and 2 cm page margins in either direction*
+
+## TITLE
+*The title should be clear and concise.*
+
+## ABSTRACT (max. 250 words)
+
+## RESEARCH TOPIC AND BACKGROUND 
+
+*This section should include objectives, background, scientific originality and/or innovative approach of the proposed research. It should concisely describe * **what** *will be investigated and* **why***.*
+
+## SCIENTIFIC AND/OR SOCIETAL IMPACT
+*Describe the scientific impact that the research will have on its research field, on related research fields and the broader scientific community.*
+*Describe societal impact by indicating possible cultural, economic, industrial, environmental and/or societal impacts that the research may have.*
+
+## DETAILED DESCRIPTION OF THE RESEARCH PLAN
+
+* *Describe the methods and techniques that will be used.*
+* *Include a detailed work plan and indicate the duration of the proposed research.*
+* *Discuss feasibility of the research proposal and indicate the possible risks involved with the proposed research, including possible methodological, logistical, financial and/or time constraints and how these can be mitigated or whether an alternative approach (plan B) exists.* 
+*Note that a PhD project should be finished within contract time, which means that the reading version of the PhD thesis has to be submitted within 4 years in the case of a fulltime appointment. *
+
+## DATA MANAGEMENT 
+*This section outlines the data management plan and must encompass:*
+
+* *Data storage (short term and long-term storage),*
+
+* *Data ownership (issues with respect to ownership of data produced in this project or external data used for this project)*
+
+* *Data sharing (agreement on who will have access to and use your (un)published data)*
+
+*This section should include references to a more comprehensive (i.e., 2 to 3 pages) data management plan in which elements are outlined in more detail and can also refer to a plan at the level of a research group. Note that the full data management plan does not need to be included in this proposal, and that data collection is also part of a data management plan but is specified in section 2.4 of this project proposal.*
+*It is recommended that you seek advice from a data steward or research support office at your home institution to complete this section. They will be able to recommend suitable storage facilities and repositories for your data, and to advise on data management costs.*
+
+# Reviewers and signatures
+
+## Potential reviewers
+
+The proposal will be sent to 3 reviewers. Please provide the names and contact details of 4-5 potential reviewers who are in no way involved in the project. A balanced representation of gender and reviewers from inside and outside the main PE&RC affiliated institutes are preferred. To speed up the review process, it is allowed and even encouraged to verify the proposed reviewer’s willingness to provide an independent review of the proposal.
+
+ # | Name + Title | Organisation | Specialisation | Email address 
+------------- | ------------- | --------- | -----------| -----------
+1. | | | | 
+2. | | | | 
+3. | | | | 
+4. | | | | 
+5. | | | | 
+
+## Signatures
+
+PhD candidate | Principal supervisor / Promotor  | Supervisor 2 | 
+------------- | ------------- | --------- |
+Name: | Name: | Name: |
+Date:| Date: | Date: |
+ |   |   |
+  |   |   |
+   |   |   |
+   
+   Supervisor 3 | Supervisor 4  | Supervisor 5 | 
+------------- | ------------- | --------- |
+Name: | Name: | Name: |
+Date:| Date: | Date: |
+   |   |   |
+      |   |   |
+         |   |   |
